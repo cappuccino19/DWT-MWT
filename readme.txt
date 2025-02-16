@@ -1,4 +1,4 @@
-The code about "Robust Triple-Color Watermarking using Elliptical Monogenic Wavelet Transform and Singular Value Decomposition" submitted to The Visual Computer.
+The code about "Robust Triple-Color Watermarking using Elliptical Monogenic Wavelet Transform and Singular Value Decomposition" .
 All code for this project needs to be run in MATLAB.
 This project is the experimental code for paper "Treble-color watermarking based on elliptical monogenic wavelet transform".It can separate the phase, amplitude, and linear representation of the image through EMWT, and embed the watermark image into these three parameters of the carrier image through SVD and DCT.
 This project includes watermark embedding and extraction related code, attack testing related code, and code for calculating PSNR and NC.
